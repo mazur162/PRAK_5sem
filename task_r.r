@@ -13,3 +13,5 @@ filter_data = function(data_frame, column, value){
 
 #Читаем файл с данными и удаляем пустые значения 
 nba_seasons <- read.csv(file = "/Users/mazur/Desktop/PRAK_5sem/nba/Seasons_Stats.csv", header = TRUE)
+nba_stats <- read.csv(file = "/Users/mazur/Desktop/PRAK_5sem/nba/players_stats.csv", header = TRUE)
+nba_stats <- na.omit(nba_stats)
