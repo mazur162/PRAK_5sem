@@ -1,0 +1,27 @@
+# Python
+__pycache__
+venv/
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.mypy_cache/
+
+.ipynb_checkpoints
+
+.gitattributes
+
+# Node/npm
+node_modules
+
+# Editors
+*.sublime-workspace
+*.sublime-project # unless most use Sublime
+.vscode
+*.code-workspace
+.idea
+*.swp
+*~
+
+# Misc
+.DS_Store
