@@ -1,4 +1,9 @@
 # PRAK_5sem
+
+
+![](https://raw.githubusercontent.com/mazur162/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mazur162/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 ## Отчёт по практикуму на основе собственного датасета.
 
 <img src="nba_logo.png" align="right" width="150" />
