@@ -9,8 +9,6 @@ htmlcov/
 
 .ipynb_checkpoints
 
-.gitattributes
-
 # Node/npm
 node_modules
 
